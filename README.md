@@ -1,5 +1,5 @@
 I have built a simple book organisation Fastapi CRUD application using MangoDB for database related queries and operations, 
-The databse has two collections called books and users and I have added the following operations in the application:
+The database has two collections called books and users and I have added the following operations in the application:
 For users
 1.Create a new user
 2.Get all users
