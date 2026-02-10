@@ -15,7 +15,7 @@ db = client["book_organization"]
 def get_db() -> Database:
     return db
 
-
+ 
 def get_next_book_id(db: Database) -> int:
     counter = db["counters"].find_one_and_update(
         {"_id": "book_id"},
