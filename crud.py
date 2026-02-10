@@ -11,7 +11,7 @@ from database import (
     delete_user_by_id,
     remove_book_from_all_users,
 )
-
+ 
 
 def create_user(db: Database, username: str):
     return add_user(db, {"username": username})
