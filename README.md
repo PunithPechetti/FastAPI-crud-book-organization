@@ -1,4 +1,4 @@
-I have built a simple book organisation Fastapi CRUD application using MangoDB for database related queries and operations, 
+I have built a simple book organisation Fastapi CRUD application using MongoDB for database related queries and operations, 
 The database has two collections called books and users and I have added the following operations in the application:
 For users
 1.Create a new user
