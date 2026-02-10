@@ -24,7 +24,7 @@ from models import (
 )
 
 app = FastAPI()
-
+ 
 """
 User operations:
 """
